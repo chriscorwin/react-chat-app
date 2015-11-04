@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "babel": "^5.8.29",
+    "babel-core": "^6.0.20",
     "babelify": "^6.4.0",
     "browser-sync": "^2.9.11",
     "browserify": "^11.2.0",
